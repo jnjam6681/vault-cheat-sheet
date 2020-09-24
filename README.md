@@ -29,7 +29,9 @@ vault operator unseal <token>
 ```
 
 #### Check status vault
+```
 vault status
+```
 
 #### Login
 ```
