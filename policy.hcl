@@ -1,5 +1,3 @@
-hcl
-
 path "secret/cookie/*" {
 	capabilities = ["create", "read", "delete", "update", "list"]
 }
